@@ -1,0 +1,13 @@
+.custom-brand {
+  font-size: 32px;
+  color: whitesmoke;
+  user-select: none !important;
+}
+
+.custom-brand:hover {
+  color: inherit !important;
+}
+
+.custom-navbar {
+  background-color: #a1ccd1;
+}
